@@ -1,0 +1,2 @@
+You: hello
+Bot: Hello! Welcome to your personalized fitness assistant. I'm here to help you achieve your fitness goals, but first, I need to gather some information about you. What is your body type, what are your fitness goals, and do you have any dietary restrictions?

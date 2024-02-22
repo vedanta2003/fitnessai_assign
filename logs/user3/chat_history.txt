@@ -1,0 +1,101 @@
+You: hello
+Bot: Hello! I'm here to assist you with your fitness journey. To provide you with tailored recommendations, I'll need some information. Could you please share your body type, fitness goals, and any dietary restrictions you may have? Based on this information, I can assist you in developing a customized plan.
+You: hello
+Bot: Hello! I'm here to assist you with your fitness journey. To provide you with tailored recommendations, I'll need some information. Could you please share your body type, fitness goals, and any dietary restrictions you may have? Based on this information, I can assist you in developing a customized plan.
+You: i am a lean 22 year old wanting to gain muscle and no dietary restrictions
+Bot: **Noted details:**
+
+- Age: 22 years old
+- Body type: Lean
+- Fitness goal: Gain muscle
+- Dietary restrictions: None
+
+**Recommendations:**
+
+1. **Caloric Surplus:** Aim for a caloric surplus of around 250-500 calories per day to support muscle growth.
+
+2. **Protein Intake:** Prioritize protein intake to aid muscle building and recovery. Aim for 1.2-1.7 grams of protein per kilogram of body weight daily.
+
+3. **Strength Training:** Focus on compound exercises like squats, deadlifts, bench presses, and overhead presses to target multiple muscle groups and promote overall strength and muscle development.
+
+4. **Progressive Overload:** Gradually increase the weight or resistance you lift over time to challenge your muscles and stimulate growth.
+
+5. **Adequate Rest:** Ensure sufficient rest and sleep to allow your muscles to recover and repair. Aim for 7-9 hours of quality sleep each night.
+
+6. **Healthy Diet:** Consume a balanced diet rich in whole, unprocessed foods, including fruits, vegetables, lean proteins, healthy fats, and complex carbohydrates.
+
+7. **Hydration:** Stay well-hydrated by drinking plenty of water throughout the day to support muscle function and recovery.
+
+8. **Consistency:** Maintain a consistent workout routine and adhere to your nutrition plan to see progress and achieve your muscle-building goals.
+You: hello
+Bot: Hello! I'm here to assist you with your fitness journey. To provide you with tailored recommendations, I'll need some information. Could you please share your body type, fitness goals, and any dietary restrictions you may have? Based on this information, I can assist you in developing a customized plan.
+You: i am a lean 22 year old wanting to gain muscle and no dietary restrictions
+Bot: **Noted details:**
+
+- Age: 22 years old
+- Body type: Lean
+- Fitness goal: Gain muscle
+- Dietary restrictions: None
+
+**Recommendations:**
+
+1. **Caloric Surplus:** Aim for a caloric surplus of around 250-500 calories per day to support muscle growth.
+
+2. **Protein Intake:** Prioritize protein intake to aid muscle building and recovery. Aim for 1.2-1.7 grams of protein per kilogram of body weight daily.
+
+3. **Strength Training:** Focus on compound exercises like squats, deadlifts, bench presses, and overhead presses to target multiple muscle groups and promote overall strength and muscle development.
+
+4. **Progressive Overload:** Gradually increase the weight or resistance you lift over time to challenge your muscles and stimulate growth.
+
+5. **Adequate Rest:** Ensure sufficient rest and sleep to allow your muscles to recover and repair. Aim for 7-9 hours of quality sleep each night.
+
+6. **Healthy Diet:** Consume a balanced diet rich in whole, unprocessed foods, including fruits, vegetables, lean proteins, healthy fats, and complex carbohydrates.
+
+7. **Hydration:** Stay well-hydrated by drinking plenty of water throughout the day to support muscle function and recovery.
+
+8. **Consistency:** Maintain a consistent workout routine and adhere to your nutrition plan to see progress and achieve your muscle-building goals.
+You: give me a sample meal
+Bot: I need more information to provide you with a proper meal plan. 
+
+1. What is your body type?
+2. What are your fitness goals?
+3. Do you have any dietary restrictions?
+
+Please provide me with this information so I can suggest a meal plan tailored specifically for you.
+You: hello
+Bot: Hello! I'm here to assist you with your fitness journey. To provide you with tailored recommendations, I'll need some information. Could you please share your body type, fitness goals, and any dietary restrictions you may have? Based on this information, I can assist you in developing a customized plan.
+You: i am a lean 22 year old wanting to gain muscle and no dietary restrictions
+Bot: **Noted details:**
+
+- Age: 22 years old
+- Body type: Lean
+- Fitness goal: Gain muscle
+- Dietary restrictions: None
+
+**Recommendations:**
+
+1. **Caloric Surplus:** Aim for a caloric surplus of around 250-500 calories per day to support muscle growth.
+
+2. **Protein Intake:** Prioritize protein intake to aid muscle building and recovery. Aim for 1.2-1.7 grams of protein per kilogram of body weight daily.
+
+3. **Strength Training:** Focus on compound exercises like squats, deadlifts, bench presses, and overhead presses to target multiple muscle groups and promote overall strength and muscle development.
+
+4. **Progressive Overload:** Gradually increase the weight or resistance you lift over time to challenge your muscles and stimulate growth.
+
+5. **Adequate Rest:** Ensure sufficient rest and sleep to allow your muscles to recover and repair. Aim for 7-9 hours of quality sleep each night.
+
+6. **Healthy Diet:** Consume a balanced diet rich in whole, unprocessed foods, including fruits, vegetables, lean proteins, healthy fats, and complex carbohydrates.
+
+7. **Hydration:** Stay well-hydrated by drinking plenty of water throughout the day to support muscle function and recovery.
+
+8. **Consistency:** Maintain a consistent workout routine and adhere to your nutrition plan to see progress and achieve your muscle-building goals.
+You: give me a sample meal
+Bot: I need more information to provide you with a proper meal plan. 
+
+1. What is your body type?
+2. What are your fitness goals?
+3. Do you have any dietary restrictions?
+
+Please provide me with this information so I can suggest a meal plan tailored specifically for you.
+You: give me a sample meal from details given above
+Bot: I need more information before I can recommend a sample meal for you. Please provide me with your body type, fitness goals, and dietary restrictions. Once I have this information, I can provide you with a meal plan that is tailored to your specific needs.

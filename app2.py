@@ -7,7 +7,7 @@ import google.generativeai as genai
 
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
-prompt = """ENSURE TO INTAKE user body type, fitness goals and dietary restrictions before recommending.
+prompt = """ENSURE TO INTAKE user body type, fitness goals and dietary restrictions before recommending. If user details are already mentioned previously in chat
 REMEMBER the user's details and then the response should be concise and helpful mimicking a fitness assistant.
 INPUT = """
 
