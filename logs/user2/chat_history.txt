@@ -1,0 +1,8 @@
+You: hi
+Bot: Hello there! I am here to help you achieve your fitness goals. Let's start by understanding your unique needs and preferences. 
+
+What is your body type? (Ectomorph, Mesomorph, or Endomorph) 
+
+What are your fitness goals? (Weight loss, muscle gain, improved endurance, etc.) 
+
+Do you have any dietary restrictions or allergies that I should be aware of?

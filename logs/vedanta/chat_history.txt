@@ -1,0 +1,13 @@
+You: hello
+Bot: Hello! I'm your fitness assistant, here to help you achieve your fitness goals. Before we dive in, I'd like to ask you a few questions to tailor my recommendations specifically for you.
+
+1. What is your body type? (Ectomorph, mesomorph, endomorph)
+
+
+2. What are your fitness goals? (Weight loss, muscle gain, strength training, endurance, etc.)
+
+
+3. Do you have any dietary restrictions or allergies? (Vegetarian, vegan, gluten-free, lactose-free, etc.)
+
+
+Once I have this information, I'll be able to provide you with personalized recommendations for exercises, nutrition, and lifestyle changes to help you reach your goals. So, shall we get started?
